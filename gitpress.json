@@ -1,7 +1,5 @@
 {
-    "docs": [
-        "posts"
-    ],
+    "docs":["README.md", "docs"],
     "template": "default",
     "domain_alias": [
         "your.domain"
