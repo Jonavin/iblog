@@ -2,7 +2,7 @@
     "docs":["README.md", "docs"],
     "template": "default",
     "domain_alias": [
-        "your.domain"
+        "http://iblog.Jonavin.gitpress.org/"
     ],
     "perpage": 10,
     "order": "number",
@@ -12,8 +12,8 @@
         "\\.html?$": "html",
         ".*": "text"
     },
-    "title": "Akira's Blog",
-    "description": "My Blog Description...",
+    "title": "Jonavin's Blog",
+    "description": "自己的博客",
     "comment": "on",
     "friends": [
         {
